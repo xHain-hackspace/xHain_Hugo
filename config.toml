@@ -1,0 +1,24 @@
+languageCode = "en-us"
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+canonifyurls = true
+title = "xhain"
+author = "Author"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+theme = "hugo-uno"
+
+[indexes]
+   category = "categories"
+   tag = "tags"
+[Params]
+  AuthorName = "AuthorName"
+  github = "xHain-hackspace"
+  twitter = "xHain_hackspace"
+  email = "mail@example.com"
+  description = "Hack- & Makespace im Herzen von Friedrichshain, Bastelstube für Technikinteressierte + Raum für Netzpolitisches"
+  #legalnotice = "/pages/legal-notice"
+  #muut = "fredrikloch"
+  cover = "/images/background-cover.jpg"
+  logo = "/images/xHain_logo3_rev2.png"
