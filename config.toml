@@ -8,10 +8,21 @@ title = "xhain"
 author = "Author"
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 theme = "hugo-uno"
+DefaultContentLanguage = "de"
+
+[Languages]
+[Languages.de]
+weight = 1
+title = "xhain"
+
+[Languages.en]
+weight = 2
+title = "xhain"
 
 [indexes]
    category = "categories"
    tag = "tags"
+
 [Params]
   AuthorName = "AuthorName"
   github = "xHain-hackspace"
@@ -22,3 +33,5 @@ theme = "hugo-uno"
   #muut = "fredrikloch"
   cover = "/images/background-cover.jpg"
   logo = "/images/xHain_logo3_rev2.png"
+
+
