@@ -1,13 +1,12 @@
-languageCode = "en-us"
+languageCode = "de-de"
 contentdir = "content"
 publishdir = "public"
 builddrafts = false
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 canonifyurls = true
-title = "xhain"
-author = "Author"
-copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
 theme = "hugo-uno"
+
 DefaultContentLanguage = "de"
 
 [Languages]
