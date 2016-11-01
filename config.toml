@@ -7,7 +7,7 @@ canonifyurls = true
 
 theme = "hugo-uno"
 
-DefaultContentLanguage = "de"
+DefaultContentLanguage = "en"
 
 [Languages]
 [Languages.de]
