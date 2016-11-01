@@ -6,7 +6,7 @@
 
 For MacOS:
 * Install brew (for installing the rest)
-* Install go: ``brew install go`
+* Install go: ``brew install go``
 * Install hugo: ``brew install hugo``
 * Run hugo to generate HTML: ``brew install hugo``
 
