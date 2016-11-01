@@ -4,6 +4,8 @@
 
 # Getting started
 
+cf. http://xhain.s3-website.eu-central-1.amazonaws.com/
+
 For MacOS:
 * Install brew (for installing the rest)
 * Install go: ``brew install go``

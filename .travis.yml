@@ -5,8 +5,8 @@ script:
   - hugo
   - python --version
   - sudo pip install s3cmd
-  # - s3cmd sync --delete-removed --access_key=AWS_ACCESS_KEY --secret_key=AWS_SECRET_KEY -P -M -r public/ s3://xhain.s3-website.eu-central-1.amazonaws.com/
-  - s3cmd sync --delete-removed -P -M -r public/ s3://xhain.s3-website.eu-central-1.amazonaws.com/
+  # - s3cmd sync --delete-removed --access_key=AWS_ACCESS_KEY --secret_key=AWS_SECRET_KEY -P -M -r public/ s3://xhain
+  - s3cmd sync --delete-removed -P -M -r public/ s3://xhain
 notifications:
     email:
         on_failure: always
