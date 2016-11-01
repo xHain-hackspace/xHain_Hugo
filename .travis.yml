@@ -10,3 +10,4 @@ script:
 notifications:
     email:
         on_failure: always
+    slack: xhainhackspace:UWpBDvV9RmazonSYC6dCEP24
