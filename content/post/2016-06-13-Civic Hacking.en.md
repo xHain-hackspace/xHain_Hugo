@@ -8,7 +8,7 @@ Categories = [
 menu = "main"
 Description = ""
 date = "2016-06-13T00:00:00+01:00"
-title = "Civic Hacking"
+title = "Civic Hacking (en)"
 
 +++
 
