@@ -33,12 +33,7 @@ description = " "
   cover = "/images/background-cover.jpg"
   logo = "/images/xHain_logo3_rev2.png"
 
-  support = "/pages/support"
-  about = "/pages/about"
-  #legalnotice = "/pages/legal-notice"
-
-  #legalnotice = "/about"
-  #cv = "https://www.google.de"
-
+  about = "/about"
+  support = "/support"
 
 
