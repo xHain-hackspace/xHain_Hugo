@@ -2,7 +2,7 @@ languageCode = "de-de"
 contentdir = "content"
 publishdir = "public"
 builddrafts = false
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://xhain.s3-website.eu-central-1.amazonaws.com/"
 canonifyurls = true
 
 theme = "hugo-uno"
