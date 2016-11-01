@@ -13,29 +13,32 @@ DefaultContentLanguage = "de"
 [Languages.de]
 weight = 1
 title = "xhain"
+description = "Hack- & Makespace im Herzen von Friedrichshain, Bastelstube für Technikinteressierte + Raum für Netzpolitisches"
 
 [Languages.en]
 weight = 2
 title = "xhain"
+description = " "
 
 [indexes]
    category = "categories"
    tag = "tags"
 
 [Params]
-  AuthorName = "AuthorName"
   github = "xHain-hackspace"
   twitter = "xHain_hackspace"
   email = "x-hain@posteo.de"
-  description = "Hack- & Makespace im Herzen von Friedrichshain, Bastelstube für Technikinteressierte + Raum für Netzpolitisches"
-  #legalnotice = "/pages/legal-notice"
-  #muut = "fredrikloch"
+  slack = "xhain"
+
   cover = "/images/background-cover.jpg"
   logo = "/images/xHain_logo3_rev2.png"
+
   support = "/pages/support"
   about = "/pages/about"
   #legalnotice = "/pages/legal-notice"
+
+  #legalnotice = "/about"
   #cv = "https://www.google.de"
-  slack = "xhain"
+
 
 
