@@ -1,4 +1,8 @@
-# support 
++++
+type = "pages"
++++
+
+# Support 
 
 There are several ways to support xHain. As we’ve only just started building the place, there are two main things you can contribute: time and money.
 

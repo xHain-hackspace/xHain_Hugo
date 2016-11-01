@@ -1,3 +1,7 @@
++++
+type = "pages"
++++
+
 # The Idea
 To have a local place for exchanges, mutual learning and fun: that’s the vision for xHain.
 During the day: a place where projects and school groups can learn.

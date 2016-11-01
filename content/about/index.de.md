@@ -1,3 +1,7 @@
++++
+type = "pages"
++++
+
 # Die Idee
 Ein Ort im Kiez, der sich für Austausch, gegenseitige Schulung und gute Laune eignet: So soll der xHain werden. 
 Tagsüber: Ein Lernort für Projekt- und Schülergruppen. Abends: Ein Treffpunkt für Hackerinnen und Bastler. Zwischendurch: Ein Tagungsraum oder temporärer Schreibtisch für bürolose Friedrichshainer/innen. So oder ähnlich könnte sich der xHain, wenn es nach Gründer Felix geht, entwickeln.

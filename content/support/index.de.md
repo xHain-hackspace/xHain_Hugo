@@ -1,4 +1,8 @@
-# unterstützendes
++++
+type = "pages"
++++
+
+# Unterstützendes
 
 Es gibt verschiedene Möglichkeiten, den xHain Hackspace zu unterstützen. Da wir gerade erst in der Anfangs- und Aufbauphase sind, könnt ihr vor allem mit zwei Dingen helfen: Zeit und Geld.
 
