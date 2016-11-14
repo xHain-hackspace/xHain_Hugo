@@ -1,0 +1,37 @@
+box: debian
+
+build:
+  steps:
+    - arjen/hugo-build:
+        version: "0.15"
+        config: config.toml
+        dev_flags: -D -F
+        prod_branches: master
+
+    - install-packages:
+        packages: rsync ssh-client openssh-client
+
+    - add-ssh-key:
+        keyname: xhainDeploy
+
+    - add-to-known_hosts:
+        hostname: acorn.x-hain.de
+
+    #- script:
+    #  name: "ssh test"
+    #  code: ssh deploy@acorn.x-hain.de
+
+    - sjoerdmulder/rsync-deploy@0.1.0:
+        host: acorn.x-hain.de
+        directory: webroot
+        sshkey: $xhainDeploy
+        user: deploy
+        source: public/
+
+
+    #
+    #- lukevivier/gh-pages@0.2.1:
+    #    token: $GIT_TOKEN
+    #    basedir: public
+    #    repo: Martin1001/martin1001.github.io
+    #    branch: master
