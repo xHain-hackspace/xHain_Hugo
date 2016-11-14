@@ -1,6 +1,6 @@
 # xHain_Hugo
 
-[![Build Status](https://travis-ci.org/xHain-hackspace/xHain_Hugo.svg?branch=master)](https://travis-ci.org/xHain-hackspace/xHain_Hugo)
+[![wercker status](https://app.wercker.com/status/4374b5664faf5920c218c1b06618581a/m/master "wercker status")](https://app.wercker.com/project/byKey/4374b5664faf5920c218c1b06618581a)
 
 # Getting started
 
