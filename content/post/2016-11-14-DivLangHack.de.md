@@ -12,7 +12,7 @@ Description = ""
 
 +++
 
-Es gibt Unmengen an Programmiersprachen und ohne Ende natürliche Sprachen. Beim < div >#ling:hack verbinden wir sie!
+Es gibt Unmengen an Programmiersprachen und ohne Ende natürliche Sprachen. Beim \<div\>#ling:hack verbinden wir sie!
 
 <!--more-->
 
@@ -26,7 +26,7 @@ Es gibt Unmengen an Programmiersprachen und ohne Ende natürliche Sprachen. Beim
 * Empowerment
 * ...
 
-# Links
+### Links
 http://pad.okfn.org/p/divlinghack
 http://languagelandscape.org/
 http://engelmann.uni.lu/lingscape/
