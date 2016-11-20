@@ -1,16 +1,16 @@
-+++
-Tags = [
-  ""
-]
-Categories = [
-  "news"
-]
-menu = "main"
-Description = ""
-date = "2016-10-25T00:00:00+01:00"
-title = "Komm, wir spielen ein Spiel!"
-
-+++
+---
+title: "Komm, wir spielen ein Spiel!"
+thumbnailImagePosition: left
+thumbnailImage: //placehold.it/750x150
+coverImage: //placehold.it/1920x1080
+metaAlignment: center
+coverMeta: in
+date: 2016-10-25
+categories:
+- news
+tags:
+- xhain
+---
 
 Lange erwartet, nun geht's endlich los:
 

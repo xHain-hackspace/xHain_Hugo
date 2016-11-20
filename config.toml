@@ -1,37 +1,116 @@
+baseurl = ""
 languageCode = "de-de"
-contentdir = "content"
-publishdir = "public"
-builddrafts = false
-baseurl = "https://acorn.x-hain.de"
+title = "xhain"
+theme = "hugo-tranquilpeak-theme"
+#DisqusShortname = "hugo-tranquilpeak-theme"
+# googleAnalytics = "UA-123-45"
+Paginate = 5
 canonifyurls = true
+defaultContentLanguage = "de"
 
-theme = "hugo-uno"
+[permalinks]
+  post = "/:year/:month/:slug/"
 
-DefaultContentLanguage = "en"
+# Menu Configuration
+[[menu.main]]
+  weight = 0
+  identifier = "blog"
+  name = "Blog"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-newspaper-o\"></i>"
+  url = "/"
+
+[[menu.main]]
+  weight = 1
+  identifier = "categories"
+  name = "Categories"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
+  url = "/categories"
+
+[[menu.main]]
+  weight = 2
+  identifier = "tags"
+  name = "Tags"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
+  url = "/tags"
+
+[[menu.main]]
+  weight = 4
+  identifier = "support"
+  name = "Support"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-life-ring\"></i>"
+  url = "/support"
+
+[[menu.main]]
+  weight = 5
+  identifier = "about"
+  name = "About"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-info\"></i>"
+  url = "/about"
+
+[[menu.links]]
+  weight = 0
+  identifier = "github"
+  name = "GitHub"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
+  url = "https://github.com/xHain-hackspace"
+
+[[menu.links]]
+  weight = 1
+  identifier = "twitter"
+  name = "Twitter"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
+  url = "https://twitter.com/xHain_hackspace"
+
+[[menu.links]]
+  weight = 2
+  identifier = "slack"
+  name = "Slack"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-slack\"></i>"
+  url = "#"
+
+[[menu.links]]
+  weight = 3
+  identifier = "mail"
+  name = "Mail"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope-o\"></i>"
+  url = "mailto:\"x-hain@posteo.de\""
+
+[[menu.misc]]
+  weight = 0
+  identifier = "rss"
+  name = "RSS"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
+  url = "/index.xml"
+
+[author]
+  name = "xHain hack+makespace"
+  picture = "https://s3.eu-central-1.amazonaws.com/xhain/xHain_logo3_rev2.png"
+  twitter = "xHain_hackspace"
 
 [Languages]
 [Languages.de]
 weight = 1
-title = "xhain"
-description = "Hack- & Makespace im Herzen von Friedrichshain, Bastelstube für Technikinteressierte + Raum für Netzpolitisches"
 
 [Languages.en]
 weight = 2
-title = "xhain"
-description = " "
 
-[indexes]
-   category = "categories"
-   tag = "tags"
+[params]
+  dateFormat = "2. January 2006"
+  clear_reading = true
+  hierarchical_categories = true
+  description = "Hack- & Makespace im Herzen von Friedrichshain, Bastelstube für Technikinteressierte + Raum für Netzpolitisches"
+  sidebar_behavior = 1
+  cover_image = "https://s3.eu-central-1.amazonaws.com/xhain/background-cover.jpg"
+  image_gallery = true
+  thumbnail_image = true
+  thumbnail_image_position = "right"
+  auto_thumbnail_image = true
 
-[Params]
-  github = "xHain-hackspace"
-  twitter = "xHain_hackspace"
-  email = "x-hain@posteo.de"
-  slack = "xhain"
-
-  cover = "/images/background-cover.jpg"
-  logo = "/images/xHain_logo3_rev2.png"
-
-  about = "/about"
-  support = "/support"
+  #favicon = images/favicons/
+  #archive_pagination = true
+  #category_pagination = true
+  #tag_pagination = true
+  #github = "xHain-hackspace"
+  #twitter = "xHain_hackspace"
+  #email = "x-hain@posteo.de"
+  #slack = "xhain"

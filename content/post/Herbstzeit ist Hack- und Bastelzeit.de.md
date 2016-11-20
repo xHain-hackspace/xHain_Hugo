@@ -1,16 +1,16 @@
-+++
-Tags = [
-  ""
-]
-Categories = [
-  "news"
-]
-menu = "main"
-Description = ""
-date = "2016-09-05T00:00:00+01:00"
-title = "Herbstzeit ist Hack- und Bastelzeit!"
-
-+++
+---
+title: "Herbstzeit ist Hack- und Bastelzeit!"
+thumbnailImagePosition: left
+thumbnailImage: //placehold.it/750x150
+coverImage: //placehold.it/1920x1080
+metaAlignment: center
+coverMeta: in
+date: 2016-09-05
+categories:
+- news
+tags:
+- xhain
+---
 
 Der Sommer nähert sich dem Ende? Für's Rumhängen im Park wird's langsam zu kalt? Du weißt noch nicht womit du dir die Zeit im Herbst und Winter vertreiben willst? Kein Grund zum Traurigsein! Im xHain gibt es ein warmes Willkommen und jede Menge zu tun und zu lernen!
 

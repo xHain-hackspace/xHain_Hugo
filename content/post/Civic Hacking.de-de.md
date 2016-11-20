@@ -1,16 +1,16 @@
-+++
-Tags = [
-  ""
-]
-Categories = [
-  "news"
-]
-menu = "main"
-Description = ""
-date = "2016-06-13T00:00:00+01:00"
-title = "Civic Hacking"
-
-+++
+---
+title: "Civic Hacking"
+thumbnailImagePosition: left
+thumbnailImage: //placehold.it/750x150
+coverImage: //placehold.it/1920x1080
+metaAlignment: center
+coverMeta: in
+date: 2016-06-13
+categories:
+- news
+tags:
+- xhain
+---
 
 Es geht darum, den ganzen Parlamentsbetrieb ordentlich aufzubereiten. Konkret geht es um 6000 Vorgänge aus der BVV Xhain (Anträge, Resolutionen, Anfragen etc). Diese liegen im Ratsinformationssystem ALLRIS vor [1]. Das ALLRIS ist aber nicht besonders toll. Ziel ist, die ganzen Sachen aufzubereiten, zu kategorisieren ("Bauausschuss", "SPD", "abgelehnt" etc), zu geotaggen und dann auf einer Karte erfassbar zu machen.
 

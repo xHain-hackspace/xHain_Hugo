@@ -1,16 +1,16 @@
-+++
-Tags = [
-  ""
-]
-Categories = [
-  "news"
-]
-menu = "main"
-Description = ""
-date = "2016-08-01T00:00:00+01:00"
-title = "Es sprießt und gedeiht der Hain!"
-
-+++
+---
+title: "Es sprießt und gedeiht der Hain!"
+thumbnailImagePosition: left
+thumbnailImage: //placehold.it/750x150
+coverImage: //placehold.it/1920x1080
+metaAlignment: center
+coverMeta: in
+date: 2016-08-01
+categories:
+- news
+tags:
+- xhain
+---
 
 Wie die Zeit verfliegt - schon ist es August. Und auch wenn es eine Weile keinen neuen Blogpost gab, im xHain war alles andere als Stillstand.
 

@@ -1,16 +1,16 @@
-+++
-Tags = [
-  ""
-]
-Categories = [
-  "news"
-]
-menu = "main"
-Description = ""
-date = "2016-06-20T00:00:00+01:00"
-title = "Lizenz zum Löten"
-
-+++
+---
+title: "Lizenz zum Löten"
+thumbnailImagePosition: left
+thumbnailImage: //placehold.it/750x150
+coverImage: //placehold.it/1920x1080
+metaAlignment: center
+coverMeta: in
+date: 2016-06-20
+categories:
+- news
+tags:
+- xhain
+---
 
 Abgerissene Stecker, kaputte Lichterketten, zerfallende Arduino-Projekte, Geräte mit Batteriefach statt Netzteil… Du
 solltest mal endlich löten lernen? Hier ist die Gelegenheit! Bring Deine defekten Geräte, die elektronischen Kuscheltiere, das batteriebetriebene Spielzeug, Deine Breadboard-Projekte, (gern auch defekte) Bauteile und Platinen mit, wir lernen löten!

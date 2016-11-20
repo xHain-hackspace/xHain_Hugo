@@ -1,16 +1,16 @@
-+++
-Tags = [
-  ""
-]
-Categories = [
-  "news"
-]
-menu = "main"
-Description = ""
-date = "2016-06-24T00:00:00+01:00"
-title = "Netzwerk-Grundlagen - Wie verbindet sich mein Rechner mit dem Internet?"
-
-+++
+---
+title: "Netzwerk-Grundlagen - Wie verbindet sich mein Rechner mit dem Internet?"
+thumbnailImagePosition: left
+thumbnailImage: //placehold.it/750x150
+coverImage: //placehold.it/1920x1080
+metaAlignment: center
+coverMeta: in
+date: 2016-06-24
+categories:
+- news
+tags:
+- xhain
+---
 
 Sonntag, 26. Juni, 17 Uhr
 

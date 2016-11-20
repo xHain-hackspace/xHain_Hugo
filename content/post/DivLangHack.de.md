@@ -1,16 +1,16 @@
-+++
-Tags = [
-  "",
-]
-Categories = [
-  "news",
-]
-menu = "main"
-date = "2016-11-15T00:18:41+01:00"
-title = "< div >#lang:Hack"
-Description = ""
-
-+++
+---
+title: "lang:Hack"
+thumbnailImagePosition: top
+thumbnailImage: //placehold.it/750x150
+coverImage: //placehold.it/1920x1080
+metaAlignment: center
+coverMeta: in
+date: 2016-11-15
+categories:
+- news
+tags:
+- xhain
+---
 
 Es gibt Unmengen an Programmiersprachen und ohne Ende natürliche Sprachen. Beim \<div\>#ling:hack verbinden wir sie!
 
