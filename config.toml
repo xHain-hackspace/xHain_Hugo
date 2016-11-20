@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://acorn.x-hain.de"
 languageCode = "de-de"
 title = "xhain"
 theme = "hugo-tranquilpeak-theme"
