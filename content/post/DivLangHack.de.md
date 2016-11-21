@@ -1,5 +1,6 @@
 ---
-title: "lang:Hack"
+title: "<div>#lang:Hack"
+slug: "div-lang-hack"
 thumbnailImagePosition: top
 thumbnailImage: //placehold.it/750x150
 coverImage: //placehold.it/1920x1080
@@ -12,7 +13,7 @@ tags:
 - xhain
 ---
 
-Es gibt Unmengen an Programmiersprachen und ohne Ende natürliche Sprachen. Beim \<div\>#ling:hack verbinden wir sie!
+Es gibt Unmengen an Programmiersprachen und ohne Ende natürliche Sprachen. Beim \<div\>#lang:hack verbinden wir sie!
 
 <!--more-->
 
