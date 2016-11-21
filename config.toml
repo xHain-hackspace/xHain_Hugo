@@ -66,7 +66,7 @@ defaultContentLanguage = "de"
   identifier = "slack"
   name = "Slack"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-slack\"></i>"
-  url = "#"
+  url = "http://xhain.23-5.eu:3000"
 
 [[menu.links]]
   weight = 3
