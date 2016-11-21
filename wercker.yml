@@ -8,6 +8,8 @@ build:
         dev_flags: -D -F
         prod_branches: master
 
+deploy:
+  steps:
     - install-packages:
         packages: rsync ssh-client openssh-client ruby
 
