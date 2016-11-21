@@ -17,8 +17,6 @@ build:
     - add-to-known_hosts:
         hostname: acorn.x-hain.de
 
-deploy:
-  steps:
     - sjoerdmulder/rsync-deploy@0.1.0:
         host: acorn.x-hain.de
         directory: webroot
