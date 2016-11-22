@@ -1,8 +1,8 @@
 baseurl = "https://acorn.x-hain.de"
 languageCode = "de-de"
 title = "xhain"
-theme = "hugo-tranquilpeak-theme"
-#DisqusShortname = "hugo-tranquilpeak-theme"
+theme = "xhain-theme"
+# DisqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
 Paginate = 5
 canonifyurls = true
@@ -63,10 +63,10 @@ defaultContentLanguage = "de"
 
 [[menu.links]]
   weight = 2
-  identifier = "slack"
-  name = "Slack"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-slack\"></i>"
-  url = "http://xhain.23-5.eu:3000"
+  identifier = "mattermost"
+  name = "Mattermost"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-comments-o\"></i>"
+  url = "https://mm.x-hain.de/signup_user_complete/?id=gq4tqk5wrjfzpe7sixfcp4ebth"
 
 [[menu.links]]
   weight = 3
