@@ -84,7 +84,7 @@ defaultContentLanguage = "de"
 
 [author]
   name = "xHain hack+makespace"
-  picture = "https://s3.eu-central-1.amazonaws.com/xhain/xHain_logo3_rev2.png"
+  picture = "images/global/xHain_logo3_rev2.png"
   twitter = "xHain_hackspace"
 
 [Languages]
@@ -100,7 +100,7 @@ weight = 2
   hierarchical_categories = true
   description = "Hack- & Makespace im Herzen von Friedrichshain, Bastelstube für Technikinteressierte + Raum für Netzpolitisches"
   sidebar_behavior = 1
-  cover_image = "https://s3.eu-central-1.amazonaws.com/xhain/background-cover.jpg"
+  cover_image = "global/background-cover.jpg"
   image_gallery = true
   thumbnail_image = true
   thumbnail_image_position = "right"
