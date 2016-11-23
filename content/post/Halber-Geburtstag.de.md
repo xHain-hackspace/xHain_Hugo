@@ -1,7 +1,7 @@
 +++
 keywords = [
-  "javascript",
-  "hexo",
+  "xhain",
+  "Termine"
 ]
 clearReading = true
 thumbnailImagePosition = "left"
@@ -9,10 +9,11 @@ coverImage = " "
 date = "2016-11-23"
 title = "Halber Geburtstag - ganzes Yeah"
 categories = [
-  "Termine",
+  "news",
 ]
 tags = [
-  "Party",
+  "xhain",
+  "Termine",
 ]
 thumbnailImage = "//placehold.it/750x150"
 autoThumbnailImage = true
