@@ -14,7 +14,7 @@ tags = [
 thumbnailImage = "/images/party.jpg"
 autoThumbnailImage = true
 coverImage = "/images/party.jpg"
-coverCaption = " "
+coverCaption = "Sofia Levchenko via [Unsplash](https://unsplash.com/photos/l6yLVM-FJxc) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de))"
 title = "Halber Geburstag - ganzes Yeah!"
 categories = [
   "news",
