@@ -19,6 +19,15 @@
     </ul>
     <ul class="sidebar-buttons">
       {{ partial "menu.html" (dict "menu" .Site.Menus.misc "root" $) }}
+      {{ range .Translations }}
+      <li class="sidebar-button">
+        <a class="sidebar-button-link " href="{{ .Permalink }}">
+          <i class="sidebar-button-icon fa fa-lg fa-language"></i>
+          <span class="sidebar-button-desc">{{ .Lang }}{{ if .IsPage }} ({{ i18n "wordCount" . }}){{ end }}</span>
+        </a>
+      </li>
+      {{ end}}
     </ul>
+
   </div>
 </nav>
