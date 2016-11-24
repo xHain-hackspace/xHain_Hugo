@@ -1,7 +1,7 @@
 ---
 title: "<div>#lang:Hack"
 slug: "div-lang-hack"
-thumbnailImagePosition: top
+thumbnailImagePosition: left
 thumbnailImage: //placehold.it/750x150
 coverImage: //placehold.it/1920x1080
 metaAlignment: center
