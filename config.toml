@@ -1,15 +1,23 @@
 baseurl = "https://acorn.x-hain.de"
-languageCode = "de-de"
 title = "xhain"
 theme = "xhain-theme"
 # DisqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
 Paginate = 5
 canonifyurls = true
-defaultContentLanguage = "de"
+defaultContentLanguage = "en"
 
 [permalinks]
   post = "/:year/:month/:slug/"
+
+
+[Languages]
+[Languages.de]
+weight = 1
+
+[Languages.en]
+weight = 2
+
 
 # Menu Configuration
 [[menu.main]]
@@ -82,17 +90,11 @@ defaultContentLanguage = "de"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
   url = "/index.xml"
 
+
 [author]
   name = "xHain hack+makespace"
   picture = "images/global/xHain_logo3_rev2.png"
   twitter = "xHain_hackspace"
-
-[Languages]
-[Languages.de]
-weight = 1
-
-[Languages.en]
-weight = 2
 
 [params]
   dateFormat = "2. January 2006"
