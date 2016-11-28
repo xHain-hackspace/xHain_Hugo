@@ -3,7 +3,7 @@
     {{ with ($.Scratch.Get "authorPicture") }}
       <div class="sidebar-profile">
         <a href="{{ "/#about" }}">
-          <img class="sidebar-profile-picture" src="{{ . }}{{ if in . "//www.gravatar.com/avatar/" }}?s=110{{ end }}" alt="{{ i18n "global.author_picture" }}" />
+          <img class="sidebar-profile-picture" src="{{ . }}{{ if in . "//www.gravatar.com/avatar/" }}?s=110{{ end }}" alt="Author's picture" />
         </a>
         <h4 class="sidebar-profile-name">{{ $.Site.Author.name }}</h4>
         {{ with $.Site.Author.bio }}
@@ -19,15 +19,6 @@
     </ul>
     <ul class="sidebar-buttons">
       {{ partial "menu.html" (dict "menu" .Site.Menus.misc "root" $) }}
-      {{ range .Translations }}
-      <li class="sidebar-button">
-        <a class="sidebar-button-link " href="{{ .Permalink }}">
-          <i class="sidebar-button-icon fa fa-lg fa-language"></i>
-          <span class="sidebar-button-desc">{{ .Lang }}{{ if .IsPage }} ({{ i18n "wordCount" . }}){{ end }}</span>
-        </a>
-      </li>
-      {{ end}}
     </ul>
-
   </div>
 </nav>

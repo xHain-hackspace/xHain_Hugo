@@ -5,19 +5,19 @@
         <li class="pagination-prev">
           <a class="btn btn--default btn--small" href="{{ .Paginator.Prev.URL }}">
             <i class="fa fa-angle-left text-base icon-mr"></i>
-            <span>{{ i18n "pagination.newer_posts" }}</span>
+            <span>NEWER POSTS</span>
           </a>
         </li>
       {{ end }}
       {{ if .Paginator.HasNext }}
         <li class="pagination-next">
           <a class="btn btn--default btn--small" href="{{ .Paginator.Next.URL }}">
-            <span>{{ i18n "pagination.older_posts" }}</span>
+            <span>OLDER POSTS</span>
             <i class="fa fa-angle-right text-base icon-ml"></i>
           </a>
         </li>
       {{ end }}
-      <li class="pagination-number">{{ i18n "pagination.page" . }} {{ i18n "pagination.of" . }}</li>
+      <li class="pagination-number">page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}</li>
     </ul>
   </div>
 {{ end }}
