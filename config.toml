@@ -3,16 +3,16 @@ title = "xhain"
 theme = "xhain-theme"
 Paginate = 5
 canonifyurls = true
-defaultContentLanguage = "de"
+defaultContentLanguage = "en"
 
 [permalinks]
   post = "/:year/:month/:slug/"
 
 [Languages]
-[Languages.de]
+[Languages.en]
 weight = 1
 
-[Languages.en]
+[Languages.de]
 weight = 2
 
 # Menu Configuration
