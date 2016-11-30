@@ -1,3 +1,4 @@
 [submodule "themes/xhain-theme"]
 	path = themes/xhain-theme
 	url = https://github.com/xHain-hackspace/xhain-theme.git
+	branch = develop
