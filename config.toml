@@ -1,6 +1,6 @@
 baseurl = "https://acorn.x-hain.de"
 title = "xhain"
-theme = "xhain-theme"
+theme = "xhain-theme-master"
 Paginate = 5
 canonifyurls = true
 defaultContentLanguage = "de"
