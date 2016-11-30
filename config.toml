@@ -1,15 +1,12 @@
 baseurl = "https://acorn.x-hain.de"
 title = "xhain"
 theme = "xhain-theme"
-# DisqusShortname = "hugo-tranquilpeak-theme"
-# googleAnalytics = "UA-123-45"
 Paginate = 5
 canonifyurls = true
-defaultContentLanguage = "en"
+defaultContentLanguage = "de"
 
 [permalinks]
   post = "/:year/:month/:slug/"
-
 
 [Languages]
 [Languages.de]
@@ -17,7 +14,6 @@ weight = 1
 
 [Languages.en]
 weight = 2
-
 
 # Menu Configuration
 [[menu.main]]
