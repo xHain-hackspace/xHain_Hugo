@@ -34,12 +34,12 @@ weight = 2
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
   url = "/categories"
 
-[[menu.main]]
-  weight = 2
-  identifier = "tags"
-  name = "Tags"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
-  url = "/tags"
+#[[menu.main]]
+#  weight = 2
+#  identifier = "tags"
+#  name = "Tags"
+#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
+#  url = "/tags"
 
 [[menu.main]]
   weight = 4
