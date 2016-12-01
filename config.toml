@@ -12,9 +12,11 @@ defaultContentLanguage = "de"
 [Languages.de]
 weight = 1
 
-[Languages.en]
+[Languages.en-us]
 weight = 2
 
+[Languages.en]
+weight = 3
 
 # Menu Configuration
 [[menu.main]]
