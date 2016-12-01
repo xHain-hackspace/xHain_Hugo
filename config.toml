@@ -25,12 +25,12 @@ weight = 2
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-newspaper-o\"></i>"
   url = "/"
 
-[[menu.main]]
-  weight = 1
-  identifier = "categories"
-  name = "Categories"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
-  url = "/categories"
+#[[menu.main]]
+#  weight = 1
+#  identifier = "categories"
+#  name = "Categories"
+#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
+#  url = "/categories"
 
 #[[menu.main]]
 #  weight = 2
