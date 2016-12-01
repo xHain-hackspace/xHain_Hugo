@@ -1,8 +1,8 @@
 ---
 title: "hackspace > fear – Opening on Friday, 13 May 2016"
-thumbnailImagePosition: left
-thumbnailImage: //placehold.it/750x150
-coverImage: //placehold.it/1920x1080
+#thumbnailImagePosition: left
+#thumbnailImage: //placehold.it/750x150
+#coverImage: //placehold.it/1920x1080
 metaAlignment: center
 coverMeta: in
 date: 2016-04-18

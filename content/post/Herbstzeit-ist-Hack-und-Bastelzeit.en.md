@@ -1,8 +1,8 @@
 ---
 title: "Autumn - time for hacking and crafting!"
-thumbnailImagePosition: left
-thumbnailImage: //placehold.it/750x150
-coverImage: //placehold.it/1920x1080
+#thumbnailImagePosition: left
+#thumbnailImage: //placehold.it/750x150
+#coverImage: //placehold.it/1920x1080
 metaAlignment: center
 coverMeta: in
 date: 2016-09-05

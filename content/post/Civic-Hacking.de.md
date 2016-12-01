@@ -1,8 +1,8 @@
 ---
 title: "Civic Hacking"
-thumbnailImagePosition: left
-thumbnailImage: //placehold.it/750x150
-coverImage: //placehold.it/1920x1080
+#thumbnailImagePosition: left
+#thumbnailImage: //placehold.it/750x150
+#coverImage: //placehold.it/1920x1080
 metaAlignment: center
 coverMeta: in
 date: 2016-06-13
@@ -14,7 +14,7 @@ tags:
 
 Es geht darum, den ganzen Parlamentsbetrieb ordentlich aufzubereiten. Konkret geht es um 6000 Vorgänge aus der BVV Xhain (Anträge, Resolutionen, Anfragen etc). Diese liegen im Ratsinformationssystem ALLRIS vor [1]. Das ALLRIS ist aber nicht besonders toll. Ziel ist, die ganzen Sachen aufzubereiten, zu kategorisieren ("Bauausschuss", "SPD", "abgelehnt" etc), zu geotaggen und dann auf einer Karte erfassbar zu machen.
 
-<!--more--> 
+<!--more-->
 Einen Dummy gibt es hier [2]
 
 Die 6000 Datensätze liegen in dreckigem XHTML vor und müssen in ein vernünftiges Format transformiert werden (XML oder JSON, optional RDF falls jemand möchte).

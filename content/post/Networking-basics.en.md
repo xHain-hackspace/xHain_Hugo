@@ -1,8 +1,8 @@
 ---
 title: "Networking Basics - How does my computer connect to the Internet?"
-thumbnailImagePosition: left
-thumbnailImage: //placehold.it/750x150
-coverImage: //placehold.it/1920x1080
+#thumbnailImagePosition: left
+#thumbnailImage: //placehold.it/750x150
+#coverImage: //placehold.it/1920x1080
 metaAlignment: center
 coverMeta: in
 date: 2016-06-24
@@ -31,4 +31,4 @@ The venue is smoke-free (people can smoke outside). There's some drinks availabl
 
 Accessibility info: There is a very small step at the entrance which can be overcome with a wheelchair. Unfortunately, the bathroom is not wheelchair-accessible. There are ~15 chairs, so if many people come, it might be the case that some have to sit on some boxes. Please be mindful that some people cannot physically do this for a longer or even shorter period of time. If that's you, please write me an e-mail beforehand (theresa@someserver.de), so I can reserve a seat on a chair for you.
 
-You can bring your children, though we don't have any organized childcare planned right now. Dogs are welcome, too, but please keep them close. 
+You can bring your children, though we don't have any organized childcare planned right now. Dogs are welcome, too, but please keep them close.

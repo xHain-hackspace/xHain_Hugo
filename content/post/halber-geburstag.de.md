@@ -1,26 +1,17 @@
-+++
-clearReading = true
-thumbnailImagePosition = "left"
-metaAlignment = "center"
-coverMeta = "in"
-date = "2016-11-23"
-keywords = [
-  "news",
-]
-tags = [
-  "xHain",
-  "Termine",
-]
-thumbnailImage = "/images/party.jpg"
-autoThumbnailImage = true
-coverImage = "/images/party.jpg"
-coverCaption = "Sofia Levchenko via [Unsplash](https://unsplash.com/photos/l6yLVM-FJxc) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de))"
-title = "Halber Geburstag - ganzes Yeah!"
-categories = [
-  "news",
-]
-
-+++
+---
+title: "Halber Geburstag - ganzes Yeah!"
+thumbnailImagePosition: left
+thumbnailImage: "/images/party.jpg"
+coverImage: "/images/party.jpg"
+coverCaption: "Sofia Levchenko via [Unsplash](https://unsplash.com/photos/l6yLVM-FJxc) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de))"
+metaAlignment: center
+coverMeta: in
+date: 2016-11-23
+categories:
+- news
+tags:
+- xhain
+---
 
 # Halber Geburtstag - ganzes Yeah!  
 

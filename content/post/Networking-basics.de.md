@@ -1,8 +1,8 @@
 ---
 title: "Netzwerk-Grundlagen - Wie verbindet sich mein Rechner mit dem Internet?"
-thumbnailImagePosition: left
-thumbnailImage: //placehold.it/750x150
-coverImage: //placehold.it/1920x1080
+#thumbnailImagePosition: left
+#thumbnailImage: //placehold.it/750x150
+#coverImage: //placehold.it/1920x1080
 metaAlignment: center
 coverMeta: in
 date: 2016-06-24
@@ -18,7 +18,7 @@ Wir wissen alle, wie das läuft - Du steckst ein Kabel ein oder gibt ein WLAN-Pa
 Aber wie funktionieren Netzwerke hinter den Kulissen? Was ist eine IP-Adresse? Wie erreicht dein Rechner die ganze Welt? Wie kannst du nachschauen, was da schief ging?
 In diesem Workshop gebe ich, Theresa, (auf Englisch) einen Überblick über die Konzepte und ein paar Programme, die dir dabei helfen können, dein Netzwerk von deinem Rechner aus zu verstehen. Dann gibt es die Möglichkeit, die Programme auf deinem eigenen Rechner auszuprobieren. Du musst dafür nicht programmieren können. Wenn etwas nicht funktioniert, helfen wir dir. ☺
 
-<!--more--> 
+<!--more-->
 Anfänger*innen willkommen! Wenn du noch nichts über Netzwerke weißt, ist dieser Workshop für dich. Wenn du ein bisschen was weißt, auch. Wenn du dich schon als Expert*in verstehst, ist er vielleicht zu langweilig.
 
 Bitte bring deinen Rechner mit. Betriebssystem egal, aber ich habe die meiste Erfahrung mit Linux. Wahrscheinlich hast du die meisten Programme, die du brauchst, schon installiert, aber wenn du vor dem Workshop ein bisschen Zeit hast, kannst du noch Wireshark installieren (https://www.wireshark.org/#download). Falls du dafür vor dem Workshop keine Zeit findest, auch nicht schlimm, wir können das auch dort machen!
@@ -31,4 +31,4 @@ Der xHain ist rauchfrei (Leute können draußen rauchen). Es gibt ein paar Getr�
 
 Infos zur Barrierefreiheit: Es gibt am Eingang eine kleine Stufe, die per Rollstuhl aber zu überwinden ist. Leider ist das Bad mit WC nicht rollstuhlgeeignet. Es gibt etwa 15 Stühle, und wenn viele Leute teilnehmen, kann es sein, dass einige auf Kisten sitzen müssen. Bitte nehmt darauf Rücksicht, dass einige Leute nicht für lange Zeit so sitzen können, oder auch nicht für kurze Zeit. Wenn das auf dich zutrifft, dann schreib mit bitte vorher eine E-mail (theresa@someserver.de), damit ich dir einen Stuhl freihalten kann.
 
-Du kannst deine Kinder mitbringen, wobei wir im Moment keine organisierte Kinderbetreuung geplant haben. Hunde sind auch willkommen, aber bitte behaltet sie nah bei euch. 
+Du kannst deine Kinder mitbringen, wobei wir im Moment keine organisierte Kinderbetreuung geplant haben. Hunde sind auch willkommen, aber bitte behaltet sie nah bei euch.
