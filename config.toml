@@ -105,8 +105,7 @@ weight = 2
   thumbnail_image = true
   thumbnail_image_position = "right"
   auto_thumbnail_image = true
-
-  #favicon = images/favicons/
+  favicon = "images/favicons/"
   #archive_pagination = true
   #category_pagination = true
   #tag_pagination = true
