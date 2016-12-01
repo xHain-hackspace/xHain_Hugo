@@ -3,7 +3,7 @@ title = "xhain"
 theme = "xhain-theme"
 Paginate = 5
 canonifyurls = true
-defaultContentLanguage = "de"
+defaultContentLanguage = "en-us"
 
 [permalinks]
   post = "/:year/:month/:slug/"
