@@ -1,9 +1,11 @@
 baseurl = "https://acorn.x-hain.de"
-title = "xhain"
+title = "xHain"
 theme = "xhain-theme"
 Paginate = 5
 canonifyurls = true
-defaultContentLanguage = "en-us"
+languageCode = "de"
+defaultContentLanguage = "de"
+DefaultContentLanguageInSubdir = "true"
 
 [permalinks]
   post = "/:year/:month/:slug/"
@@ -12,11 +14,8 @@ defaultContentLanguage = "en-us"
 [Languages.de]
 weight = 1
 
-[Languages.en-us]
-weight = 2
-
 [Languages.en]
-weight = 3
+weight = 2
 
 # Menu Configuration
 [[menu.main]]
