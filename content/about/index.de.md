@@ -1,5 +1,5 @@
 +++
-type = "pages"
+type = "page"
 +++
 
 # Die Idee
