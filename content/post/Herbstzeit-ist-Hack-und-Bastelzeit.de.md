@@ -1,8 +1,9 @@
 ---
 title: "Herbstzeit ist Hack- und Bastelzeit!"
-#thumbnailImagePosition: left
-#thumbnailImage: //placehold.it/750x150
-#coverImage: //placehold.it/1920x1080
+thumbnailImagePosition: left
+thumbnailImage: /images/autumn.jpg
+coverImage: /images/autumn.jpg
+coverCaption: "[Heye Jensen](http://foto.heyeje.de/content/herbstbaum/) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))"
 metaAlignment: center
 coverMeta: in
 date: 2016-09-05

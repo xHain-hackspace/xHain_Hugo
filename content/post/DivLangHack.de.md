@@ -1,9 +1,10 @@
 ---
 title: "<div>#lang:Hack"
 slug: "div-lang-hack"
-#thumbnailImagePosition: left
-#thumbnailImage: //placehold.it/750x150
-#coverImage: //placehold.it/1920x1080
+thumbnailImagePosition: left
+thumbnailImage: /images/cables.jpg
+coverImage: /images/cables.jpg
+coverCaption: "Randall Bruder via [Unsplash](https://unsplash.com/photos/3_I4NVI9d1k) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de))"
 metaAlignment: center
 coverMeta: in
 date: 2016-11-15

@@ -1,8 +1,9 @@
 ---
 title: "Networking Basics - How does my computer connect to the Internet?"
-#thumbnailImagePosition: left
-#thumbnailImage: //placehold.it/750x150
-#coverImage: //placehold.it/1920x1080
+thumbnailImagePosition: left
+thumbnailImage: /images/network.jpg
+coverImage: /images/network.jpg
+coverCaption: "Athena Lam via [Unsplash](https://unsplash.com/photos/EG9qfm3BHR4) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de))"
 metaAlignment: center
 coverMeta: in
 date: 2016-06-24

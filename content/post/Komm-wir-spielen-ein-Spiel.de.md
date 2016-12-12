@@ -1,9 +1,10 @@
 ---
 title: "Komm, wir spielen ein Spiel!"
 thumbnailImagePosition: left
-#thumbnailImage: //placehold.it/750x150
-#coverImage: //placehold.it/1920x1080
-#metaAlignment: center
+thumbnailImage: /images/boardgame.jpg
+coverImage: /images/boardgame.jpg
+coverCaption: "Maarten van den Heuvel via [Unsplash](https://unsplash.com/photos/_pc8aMbI9UQ) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de))"
+metaAlignment: center
 coverMeta: in
 date: 2016-10-25
 categories:

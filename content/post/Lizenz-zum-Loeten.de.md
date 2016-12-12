@@ -1,8 +1,9 @@
 ---
 title: "Lizenz zum Löten"
-#thumbnailImagePosition: left
-#thumbnailImage: //placehold.it/750x150
-#coverImage: //placehold.it/1920x1080
+thumbnailImagePosition: left
+thumbnailImage: /images/solder.jpg
+coverImage: /images/solder.jpg
+coverCaption: "Ossewa via [wikipedia](https://de.wikipedia.org/wiki/Datei:Solder_Paste_Printed_on_a_PCB.jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.de))"
 metaAlignment: center
 coverMeta: in
 date: 2016-06-20

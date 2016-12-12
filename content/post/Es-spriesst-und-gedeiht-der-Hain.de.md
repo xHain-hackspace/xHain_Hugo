@@ -1,8 +1,9 @@
 ---
 title: "Es sprießt und gedeiht der Hain!"
-#thumbnailImagePosition: left
-#thumbnailImage: //placehold.it/750x150
-#coverImage: //placehold.it/1920x1080
+thumbnailImagePosition: left
+thumbnailImage: /images/grow.jpg
+coverImage: /images/grow.jpg
+coverCaption: "chuttersnap via [Unsplash](https://unsplash.com/photos/UmncJq4KPcA) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de))"
 metaAlignment: center
 coverMeta: in
 date: 2016-08-01
