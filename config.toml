@@ -1,4 +1,4 @@
-baseurl = "https://acorn.x-hain.de"
+baseurl = "https://x-hain.de"
 title = "xHain"
 theme = "xhain-theme"
 Paginate = 5
