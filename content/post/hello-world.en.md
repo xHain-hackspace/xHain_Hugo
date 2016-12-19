@@ -1,9 +1,10 @@
 ---
 title: "#Hello world. The xHain is alive!"
 slug: "Hello-world-The-xHain-is-alive"
-#thumbnailImagePosition: left
-#thumbnailImage: //placehold.it/750x150
-#coverImage: //placehold.it/1920x1080
+thumbnailImagePosition: left
+thumbnailImage: /images/forest.jpg
+coverImage: /images/forest.jpg
+coverCaption: "Carmine De Fazio via [Unsplash](https://unsplash.com/photos/3ytjETpQMNY) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de))"
 metaAlignment: center
 coverMeta: in
 date: 2016-06-01

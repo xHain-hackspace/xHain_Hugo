@@ -1,8 +1,9 @@
 ---
 title: "hackspace > fear – Opening on Friday, 13 May 2016"
-#thumbnailImagePosition: left
-#thumbnailImage: //placehold.it/750x150
-#coverImage: //placehold.it/1920x1080
+thumbnailImagePosition: left
+thumbnailImage: /images/opening.jpg
+coverImage: /images/opening.jpg
+coverCaption: "Finn Hackshaw via [Unsplash](https://unsplash.com/photos/FQgI8AD-BSg) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de))"
 metaAlignment: center
 coverMeta: in
 date: 2016-04-18

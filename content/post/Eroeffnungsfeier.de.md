@@ -1,9 +1,10 @@
 ---
 title: "hackspace statt Angst - Eröffnung am Freitag, den 13. Mai 2016"
-#thumbnailImagePosition: left
-#thumbnailImage: //placehold.it/750x150
-#coverImage: //placehold.it/1920x1080
-metaAlignment: center
+thumbnailImagePosition: left
+thumbnailImage: /images/opening.jpg
+coverImage: /images/opening.jpg
+coverCaption: "Finn Hackshaw via [Unsplash](https://unsplash.com/photos/FQgI8AD-BSg) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de))"
+metaAlignment: left
 coverMeta: in
 date: 2016-04-18
 categories:
