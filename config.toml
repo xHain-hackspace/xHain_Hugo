@@ -6,6 +6,7 @@ canonifyurls = true
 languageCode = "de"
 defaultContentLanguage = "de"
 DefaultContentLanguageInSubdir = "true"
+MetaDataFormat = "yaml"
 
 [permalinks]
   post = "/:year/:month/:slug/"
