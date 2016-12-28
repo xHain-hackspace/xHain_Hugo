@@ -2,16 +2,20 @@
 type = "page"
 +++
 
-# The Idea
-To have a local place for exchanges, mutual learning and fun: that’s the vision for xHain.
-During the day: a place where projects and school groups can learn.
-At night: a place where hackers and makers can meet.
-At other times: a conference room or a temporary desk for Friedrichshainers with no office to go to.
-This – or something similar – is what founder Felix hopes xHain turns out to be.
+# Dezember 2016
 
-## Who It’s For
-We want to create a place where makers, people who are interested in tech, and (society) hackers feel comfortable.
-You’re welcome no matter who you are or what you do – whether you have a job or not, whether you’re a trainee or a student, a single parent or a senior citizen.
-
-xHain is a non-smoking place. People who want to smoke can do so outside.
-If you’re sexist, racist, homophobic or an asshole, please don’t bother coming.
+Mo, 5.12. 17:00 offener Hain</br>
+Di, 6.12. 19:30 Go/Golang Lern-Abend</br>
+Mi, 7.12  19:00 offener Hain</br>
+Do, 8.12.  Damensalon der  <a href="https://twitter.com/heartofcode">@heartofcode</a></br>
+Mo, 12.12. 17:00 offener Hain</br>
+Di, 13.12. 20:00 CivicHacking</br>
+Mi, 14.12  19:00 offener Hain</br>
+Fr, 16.12  20:00 Die <a href="https://twitter.com/heartofcode">@heartofcode</a> und der xHain  Kapitel 9 Die Weihnachtsfeier</br>
+So, 18.12. 10:00 xHain Infrastructure hackday</br>
+Mo, 19.12. 17:00 offener Hain</br>
+Di, 20.12. 19:30 Go/Golang Lern-Abend</br>
+Mi, 21.12  19:00 offener Hain</br>
+Do, 22.12. Damensalon der  <a href="https://twitter.com/heartofcode">@heartofcode</a></br>
+Mi, 28.12  19:00 offener Hain</br>
+Do, 29.12. 20:00 Level 16-12 gaming evening

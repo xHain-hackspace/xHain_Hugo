@@ -17,6 +17,5 @@ Mo, 19.12. 17:00 offener Hain</br>
 Di, 20.12. 19:30 Go/Golang Lern-Abend</br>
 Mi, 21.12  19:00 offener Hain</br>
 Do, 22.12. Damensalon der  <a href="https://twitter.com/heartofcode">@heartofcode</a></br>
-Di, 27.12. 20:30 Houdini Lern-Abend</br>
 Mi, 28.12  19:00 offener Hain</br>
 Do, 29.12. 20:00 Level 16-12 gaming evening
