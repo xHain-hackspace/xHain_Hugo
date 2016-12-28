@@ -54,12 +54,20 @@ weight = 2
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-info\"></i>"
   url = "/about"
 
+[[menu.main]]
+  weight = 6
+  identifier = "calendar"
+  name = "Calendar"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-calendar-o\"></i>"
+  url = "/calendar"
+
+
 [[menu.links]]
   weight = 0
-  identifier = "github"
-  name = "GitHub"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/xHain-hackspace"
+  identifier = "mattermost"
+  name = "Mattermost"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-comments-o\"></i>"
+  url = "https://mm.x-hain.de/signup_user_complete/?id=gq4tqk5wrjfzpe7sixfcp4ebth"
 
 [[menu.links]]
   weight = 1
@@ -70,17 +78,17 @@ weight = 2
 
 [[menu.links]]
   weight = 2
-  identifier = "mattermost"
-  name = "Mattermost"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-comments-o\"></i>"
-  url = "https://mm.x-hain.de/signup_user_complete/?id=gq4tqk5wrjfzpe7sixfcp4ebth"
-
-[[menu.links]]
-  weight = 3
   identifier = "mail"
   name = "Mail"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope-o\"></i>"
   url = "mailto:\"x-hain@posteo.de\""
+
+[[menu.links]]
+  weight = 3
+  identifier = "github"
+  name = "GitHub"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
+  url = "https://github.com/xHain-hackspace"
 
 [[menu.misc]]
   weight = 0
