@@ -61,8 +61,6 @@ weight = 2
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-info\"></i>"
   url = "/about"
 
-
-
 [[menu.links]]
   weight = 0
   identifier = "mattermost"
