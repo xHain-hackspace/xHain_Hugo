@@ -42,17 +42,17 @@ weight = 2
 
 [[menu.main]]
   weight = 4
-  identifier = "support"
-  name = "Support"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-life-ring\"></i>"
-  url = "/support"
-
-[[menu.main]]
-  weight = 5
   identifier = "calendar"
   name = "Calendar"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-calendar-o\"></i>"
   url = "/calendar"
+
+[[menu.main]]
+  weight = 5
+  identifier = "support"
+  name = "Support"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-life-ring\"></i>"
+  url = "/support"
 
 [[menu.main]]
   weight = 6
