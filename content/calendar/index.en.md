@@ -21,6 +21,6 @@ Mo, 23 5pm open grove</br>
 Di, 24 7:30pm Houdini CoLearning</br>
 Mi, 25 7:00pm open grove</br>
 Do, 26 Ladies salon by <a href="https://twitter.com/heartofcode">@heartofcode</a></br>
-Fr, 27 8:00pm Level 17-1, gaming evening
+Fr, 27 8:00pm Level 17-1, gaming evening</br>
 Mo, 30 5:00 open grove</br>
 Di, 31 7:30 Lisp-Meeting</br>

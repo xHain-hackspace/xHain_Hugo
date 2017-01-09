@@ -21,6 +21,6 @@ Mo, 23.01. 17:00 offener Hain</br>
 Di, 24.01. 19:30 Go/Golang Lern-Abend</br>
 Mi, 25.01. 19:00 offener Hain</br>
 Do, 26.01. Damensalon der  <a href="https://twitter.com/heartofcode">@heartofcode</a></br>
-Fr, 27.01. 20:00 Level 17-1, Spiele-Abend
+Fr, 27.01. 20:00 Level 17-1, Spiele-Abend</br>
 Mo, 30.01. 17:00 offener Hain</br>
 Di, 31.01. 19:30 Lisp-Treffen</br>
