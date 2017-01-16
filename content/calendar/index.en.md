@@ -12,7 +12,7 @@ Su 	08 12-8pm HackDay der <a href="https://twitter.com/heartofcode">@heartofcode
 Mo,	09 5pm open grove</br>
 Tu, 10 8pm CivicHacking</br>
 Mi, 11 7pm open grove</br>
-Do, 12 Ladies salon by <a href="https://twitter.com/heartofcode">@heartofcode</a>
+Do, 12 Ladies salon by <a href="https://twitter.com/heartofcode">@heartofcode</a> </br>
 Mo, 16 5pm open grove</br>
 Di, 17 7:30pm Go/Golang CoLearning</br>
 Mi, 18 7pm open grove</br>
