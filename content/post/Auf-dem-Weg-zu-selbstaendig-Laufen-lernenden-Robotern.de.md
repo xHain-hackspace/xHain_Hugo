@@ -13,13 +13,11 @@ tags:
 - xhain
 ---
 
-|   |   |
-|---|---|
-|Vortragender | Dipl.-Inf. Matthias Kubisch|
-|Titel   | Auf dem Weg zu selbständig Laufen-lernenden Robotern.  |
-|Zeit    | 20.01.2017 20:00 Uhr  |
-|Dauer   | 1 Stunde  |
-|Sprache | Deutsch  |
+Titel: Auf dem Weg zu selbständig Laufen-lernenden Robotern.<br>
+Vortragender: Dipl.-Inf. Matthias Kubisch<br>
+Zeit: 20.01.2017 20:00 Uhr<br>
+Dauer: 1 Stunde<br>
+Sprache: Deutsch<br>
 
 Heutige Roboter haben das Laufen nicht gelernt, jedenfalls nicht in der
 Art wie wir Menschen es kennen: Als einen fortdauernden Prozess aus
