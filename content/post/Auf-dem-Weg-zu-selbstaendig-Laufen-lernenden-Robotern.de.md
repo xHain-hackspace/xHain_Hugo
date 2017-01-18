@@ -1,5 +1,5 @@
 ---
-title: "Auf dem Weg zu selbständig Laufen lernenden Robotern"
+title: "Auf dem Weg zu selbständig Laufen-lernenden Robotern"
 thumbnailImagePosition: left
 thumbnailImage: /images/Robot_wireframe.jpg
 coverImage: /images/Robot_wireframe.jpg

@@ -17,7 +17,7 @@ Mo, 16 5pm open grove</br>
 Tu, 17 7:30pm Go/Golang CoLearning</br>
 We, 18 7pm open grove</br>
 Th, 19 Ladies salon by <a href="https://twitter.com/heartofcode">@heartofcode</a></br>
-Fr, 20 8pm lecture: Auf dem Weg zu selbständig Laufen lernenden Robotern</br>
+Fr, 20 8pm lecture: Auf dem Weg zu selbständig Laufen-lernenden Robotern</br>
 Mo, 23 5pm open grove</br>
 Tu, 24 7:30pm Houdini CoLearning</br>
 We, 25 7:00pm open grove</br>
