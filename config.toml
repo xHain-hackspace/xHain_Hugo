@@ -42,8 +42,8 @@ weight = 2
 
 [[menu.main]]
   weight = 4
-  identifier = "calendar"
-  name = "Calendar"
+  identifier = "Kalender"
+  name = "Kalender"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-calendar-o\"></i>"
   url = "/calendar"
 
