@@ -16,12 +16,12 @@ https://acorn.x-hain.de
 * Submodule update: ``git submodule foreach git pull origin master``
 
 **For Windows/Linux:**
-* Install hugo: [http://gohugo.io/](Hugo Website)
+* Install hugo: [Hugo Website](https://gohugo.io)
 
 # Editing Site
 
 ## New Post
-* create new post (using archetypes): ``hugo new post/title.de.md`` or ``hugo new post/title.en.md`` 
+* create new post (using archetypes): ``hugo new post/title.de.md`` or ``hugo new post/title.en.md``
 * just edit new post in the "content"-folder
 
 ## Images
