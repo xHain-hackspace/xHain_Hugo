@@ -12,7 +12,7 @@ https://acorn.x-hain.de
 * Install hugo: ``brew install hugo``
 * Run hugo to generate HTML: ``hugo``
 * Run hugo for local development: ``hugo server``
-* Initial pull submodule xhain-theme: ``git ...``
+* Initial pull submodule xhain-theme: ``git submodule update``
 * Submodule update: ``git submodule foreach git pull origin master``
 
 **For Windows/Linux:**
