@@ -29,3 +29,7 @@ https://acorn.x-hain.de
 # Development
 
 tbd.
+
+
+**Submodules**
+Theme Version: 0.2.3-SNAPSHOT
