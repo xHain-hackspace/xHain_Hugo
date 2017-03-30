@@ -1,8 +1,13 @@
-+++
-type = "page"
-+++
+---
+comments: false
+date: 2017-03-30
+showDate: false
+showPagination: false
+showSocial: false
+showTags: false
+title: The Idea
+---
 
-# The Idea
 To have a local place for exchanges, mutual learning and fun: that’s the vision for xHain.
 During the day: a place where projects and school groups can learn.
 At night: a place where hackers and makers can meet.

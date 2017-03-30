@@ -1,9 +1,14 @@
-+++
-type = "page"
-+++
+---
+comments: false
+date: 2017-03-30
+showDate: false
+showPagination: false
+showSocial: false
+showTags: false
+title: Die Idee
+---
 
-# Die Idee
-Ein Ort im Kiez, der sich für Austausch, gegenseitige Schulung und gute Laune eignet: So soll der xHain werden. 
+Ein Ort im Kiez, der sich für Austausch, gegenseitige Schulung und gute Laune eignet: So soll der xHain werden.
 Tagsüber: Ein Lernort für Projekt- und Schülergruppen. Abends: Ein Treffpunkt für Hackerinnen und Bastler. Zwischendurch: Ein Tagungsraum oder temporärer Schreibtisch für bürolose Friedrichshainer/innen. So oder ähnlich könnte sich der xHain, wenn es nach Gründer Felix geht, entwickeln.
 
 ## Die Nutzer/innen

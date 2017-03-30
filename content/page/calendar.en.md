@@ -1,6 +1,12 @@
-+++
-type = "page"
-+++
+---
+comments: false
+date: 2017-03-30
+showDate: false
+showPagination: false
+showSocial: false
+showTags: false
+title: Calendar
+---
 
 # January 2017
 
@@ -25,3 +31,5 @@ Th, 26 Ladies salon by <a href="https://twitter.com/heartofcode">@heartofcode</a
 Fr, 27 8:00pm Level 17-1, gaming evening</br>
 Mo, 30 5:00 open grove</br>
 Tu, 31 7:30 Lisp-Meeting</br>
+
+

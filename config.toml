@@ -42,24 +42,24 @@ weight = 2
 
 [[menu.main]]
   weight = 4
-  identifier = "Kalender"
-  name = "Kalender"
+  identifier = "calendar"
+  name = "Calendar"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-calendar-o\"></i>"
-  url = "/calendar"
+  url = "/page/calendar"
 
 [[menu.main]]
   weight = 5
   identifier = "support"
   name = "Support"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-life-ring\"></i>"
-  url = "/support"
+  url = "/page/support"
 
 [[menu.main]]
   weight = 6
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-info\"></i>"
-  url = "/about"
+  url = "/page/about"
 
 [[menu.links]]
   weight = 0
