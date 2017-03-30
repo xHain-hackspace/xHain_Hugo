@@ -31,4 +31,4 @@ https://acorn.x-hain.de
 tbd.
 
 **Submodules**
-Theme Version: 0.2.3-SNAPSHOT (30.3.2017)
+Theme Version: 0.2.3-SNAPSHOT
