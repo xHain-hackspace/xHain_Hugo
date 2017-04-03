@@ -8,12 +8,11 @@ showTags: false
 title: Imprint
 ---
 
-According to § 5 TMG:
+According to § 5 TMG:<br>
 
-Felix Just
-xHain hack + makespace 
-Grünberger Str. 54 
-10243 Berlin
-
-Contact:
-E-Mail: info@x-hain.de
+Felix Just<br>
+xHain hack+makespace<br>
+Grünberger Str. 54<br>
+10243 Berlin<br>
+<br>
+<a href="mailto:info@x-hain.de">info@x-hain.de</a>
