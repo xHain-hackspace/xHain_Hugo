@@ -61,6 +61,13 @@ weight = 2
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-info\"></i>"
   url = "/page/about"
 
+[[menu.main]]
+  weight = 6
+  identifier = "imprint"
+  name = "Imprint"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-info\"></i>"
+  url = "/page/imprint"
+
 [[menu.links]]
   weight = 0
   identifier = "mattermost"
