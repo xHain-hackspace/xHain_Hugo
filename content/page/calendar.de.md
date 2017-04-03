@@ -9,6 +9,7 @@ title: Kalender
 ---
 
 # April 2017
+
 Mo, 03.04. 17:00 offener Hain</br>
 Di, 04.04. 19:30 Go-/Golang-Meetup<br>
 Mi, 05.04. 19:00 offener Hain</br>
