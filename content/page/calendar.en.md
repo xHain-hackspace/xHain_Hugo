@@ -8,18 +8,23 @@ showTags: false
 title: Calendar
 ---
 
-# April 2017
+# May 2017
 
-Mo, 03 5pm open grove</br>
-Tu, 04 7:30pm Go-/Golang-Meetup</br>
-We, 05 7pm open grove</br>
-Mo,	10 5pm open grove</br>
-Mi, 12 7pm open grove</br>
-Mo, 17 5pm open grove</br>
-Mi, 19 7pm open grove</br>
-Mo, 24 5pm open grove</br>
-Mi, 26 7:00pm open grove</br>
-Fr, 28 8:00pm Level 17-4, gaming evening</br>
+Mo, 01 5pm open grove</br>
+Tu, 02 7:30pm Go-/Golang-Meetup</br>
+We, 03 7pm open grove</br>
+Mo,	08 5pm open grove</br>
+Mi, 10 7pm open grove</br>
+Sa, 13 8pm First birthday
+Mo, 15 5pm open grove</br>
+Tu, 16 7:30pm Go-/Golang-Meetup</br>
+Mi, 17 7pm open grove</br>
+Mo, 22 5pm open grove</br>
+Tu, 23 8pm Houdini-Meetup</br>
+Mi, 24 7:00pm open grove</br>
+Fr, 26 8:00pm Level 17-5, gaming evening</br>
+Mo, 29 5pm open grove</br>
+Mi, 31 7:00pm open grove</br>
 
 
 
