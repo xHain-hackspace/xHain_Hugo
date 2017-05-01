@@ -15,7 +15,7 @@ Di, 02.05. 19:30 Go-/Golang-Meetup<br>
 Mi, 03.05. 19:00 offener Hain</br>
 Mo,	08.05. 17:00 offener Hain</br>
 Mi, 10.05. 19:00 offener Hain</br>
-Sa, 13.05. 20:00 1. Geburtstag
+Sa, 13.05. 20:00 1. Geburtstag</br>
 Mo, 15.05. 17:00 offener Hain</br>
 Di, 16.05. 19:30 Go-/Golang-Meetup<br>
 Mi, 17.05. 19:00 offener Hain</br>
