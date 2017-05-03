@@ -13,12 +13,11 @@ tags:
 - xhain
 ---
 
-Wow, that was fast: a whole year is already over and the xHain is turning 1!
-A lot happened, a lot of impressing things were created and there is now a really amazing community.
-And as it should be, we want to celebrate this anniversary with you properly.
-
-Therefor you are invited to our birthday party!
-When?				Saturday, 13th of May from 8pm
-Where?				At the xHain of course
-What's happening?	Drinks, music, dancing and a lot of great people
-How much? 			Admission free, gifts and donations are very welcome
+Wow, that was fast: a whole year is already over and the xHain is turning 1!<br>
+A lot happened, a lot of impressing things were created and there is now a really amazing community.<br>
+And as it should be, we want to celebrate this anniversary with you properly.<br>
+Therefor you are invited to our birthday party!<br><br>
+When?<br>Saturday, 13th of May from 8pm<br>
+Where?<br>At the xHain of course<br>
+What's happening?<br>Drinks, music, dancing and a lot of great people<br>
+How much?<br>Admission free, gifts and donations are very welcome<br>
