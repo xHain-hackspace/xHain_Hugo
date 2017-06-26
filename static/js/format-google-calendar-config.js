@@ -9,7 +9,7 @@ formatGoogleCalendar.init({
     itemsTagName: 'li',
     upcomingSelector: '#events-upcoming',
     pastSelector: '#events-past',
-    upcomingHeading: '&nbsp;',
+    upcomingHeading: '',
     pastHeading: '<h2>Past events</h2>',
-    format: ['*date*', ': ', '*summary*']
+    format: ['*date*', ' ', '*summary*']
 });

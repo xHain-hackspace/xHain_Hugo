@@ -205,7 +205,9 @@ var formatGoogleCalendar = (function() {
 
     var getDayName = function (day) {
       var dayNames = [
-          'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'
+//          'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'
+          'Sonntag', 'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag'
+
       ];
 
       return dayNames[day];
@@ -246,15 +248,16 @@ var formatGoogleCalendar = (function() {
             dayNameStart = '';
 
         if (dayNames) {
-          dayNameStart = getDayNameFormatted(dateStart);
+          dayNameStart = '<span style="width: 100px; float: left">' + getDayNameFormatted(dateStart) + '</span>';
         }
 
         if (config.sameDayTimes && !moreDaysEvent && !isAllDayEvent) {
-            formattedTime = ' from ' + getFormattedTime(dateStart) + ' - ' + getFormattedTime(dateEnd);
+           // formattedTime = ' from ' + getFormattedTime(dateStart) + ' - ' + getFormattedTime(dateEnd);
+            formattedTime = '<span style="width: 135px; float: left">' + getFormattedTime(dateStart) + ' - ' + getFormattedTime(dateEnd) + '</span>';
         }
 
         //month day, year time-time
-        return dayNameStart + getMonthName(dateStart[1]) + ' ' + dateStart[0] + ', ' + dateStart[2] + formattedTime;
+        return dayNameStart + '<span style="width: 100px; float: left">' + dateStart[0] + '.' + dateStart[1] + '.' + dateStart[2] + '</span>' + formattedTime;
     };
 
     var formatDateOneDay = function(dateStart, dayNames) {
@@ -350,22 +353,22 @@ var formatGoogleCalendar = (function() {
 
     var getFormattedTime = function (date) {
         var formattedTime = '',
-            period = 'AM',
+            period = '',
             hour = date[3],
             minute = date[4];
 
         // Handle afternoon.
         if (hour >= 12) {
-            period = 'PM';
+            period = '';
 
             if (hour >= 13) {
-                hour -= 12;
+                //hour -= 12;
             }
         }
 
         // Handle midnight.
         if (hour === 0) {
-            hour = 12;
+            hour = 24;
         }
 
         // Ensure 2-digit minute value.
