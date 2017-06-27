@@ -16,6 +16,6 @@ title: Calendar
 </ul>
 
 <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script src="../../../js/format-google-calendar.js"></script>
+<script src="../../../js/format-google-calendar-en.js"></script>
 <script src="../../../js/format-google-calendar-config.js"></script>
 
