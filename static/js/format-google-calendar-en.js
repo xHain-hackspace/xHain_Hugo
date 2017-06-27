@@ -255,7 +255,7 @@ var formatGoogleCalendar = (function() {
         }
 
         //month day, year time-time
-        return '<span style="width: 100px; float: left">' + dayNameStart + '</span>' + '<span style="width: 100px; float: left">' + dateStart[0] + '.' + dateStart[1] + '.' + dateStart[2] + '</span>' + '<span style="width: 135px; float: left">' + formattedTime + '</span>';
+        return '<span style="width: 125px; float: left">' + dayNameStart + '</span>' + '<span style="width: 100px; float: left">' + dateStart[0] + '.' + dateStart[1] + '.' + dateStart[2] + '</span>' + '<span style="width: 135px; float: left">' + formattedTime + '</span>';
     };
 
     var formatDateOneDay = function(dateStart, dayNames) {
