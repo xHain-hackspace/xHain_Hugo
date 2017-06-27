@@ -248,16 +248,16 @@ var formatGoogleCalendar = (function() {
             dayNameStart = '';
 
         if (dayNames) {
-          dayNameStart = '<span style="width: 100px; float: left">' + getDayNameFormatted(dateStart) + '</span>';
+          dayNameStart = getDayNameFormatted(dateStart);
         }
 
         if (config.sameDayTimes && !moreDaysEvent && !isAllDayEvent) {
            // formattedTime = ' from ' + getFormattedTime(dateStart) + ' - ' + getFormattedTime(dateEnd);
-            formattedTime = '<span style="width: 135px; float: left">' + getFormattedTime(dateStart) + ' - ' + getFormattedTime(dateEnd) + '</span>';
+            formattedTime = getFormattedTime(dateStart) + ' - ' + getFormattedTime(dateEnd);
         }
 
         //month day, year time-time
-        return dayNameStart + '<span style="width: 100px; float: left">' + dateStart[0] + '.' + dateStart[1] + '.' + dateStart[2] + '</span>' + formattedTime;
+        return '<span style="width: 100px; float: left">' + dayNameStart + '</span>' + '<span style="width: 100px; float: left">' + dateStart[0] + '.' + dateStart[1] + '.' + dateStart[2] + '</span>' + '<span style="width: 135px; float: left">' + formattedTime + '</span>';
     };
 
     var formatDateOneDay = function(dateStart, dayNames) {
