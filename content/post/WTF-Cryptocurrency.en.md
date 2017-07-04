@@ -28,4 +28,4 @@ There will be a talk covering the following questions:
 
 As it's unlikely that all questions can be answered in a talk, there will be the opportunity to talk and discuss afterwards.
 
-The cryptocurrency-evening starts at 7:30pm on Friday, July 2nd.
+The cryptocurrency-evening starts at 7:30pm on Friday, July 7th.

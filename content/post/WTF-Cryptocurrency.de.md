@@ -28,4 +28,4 @@ In einem kurzen Vortrag wird es einen kleinen Rundumschlag zu den folgenden Punk
 
 Und da es unwahrscheinlich ist, dass danach keine fragen mehr offen sind, wird es Gelegenheit geben sich weiter auszutauschen und zu diskutieren.
 
-Los geht's am Freitag, den 2. Juli, um 19:30 Uhr.
+Los geht's am Freitag, den 7. Juli, um 19:30 Uhr.
