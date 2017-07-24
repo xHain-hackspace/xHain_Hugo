@@ -1,4 +1,17 @@
-xHain Maker Days
+---
+title: "xHain Maker Days"
+thumbnailImagePosition: left
+thumbnailImage: /images/MakerDays.jpg
+coverImage: /images/MakerDays.jpg
+metaAlignment: left
+coverMeta: in
+date: 2017-07-25
+categories:
+- news
+- events
+tags:
+- xhain
+---
 
 Ihr seid kreativ und Technik begeistert? Wollt verrückte Lösungen für ganz alltäglichen Kram zusammen basteln? Oder einfach nur lernen, wie man sich selber einen kleinen Roboter baut? Dann seid Ihr in unserem Ferienkurs genau richtig!
 
