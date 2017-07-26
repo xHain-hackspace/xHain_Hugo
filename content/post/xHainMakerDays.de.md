@@ -33,7 +33,7 @@ Stattfinden werden die xHain Maker Days von Montag, 28.8., bis Donnerstag, 31.8.
 Die 4 Tage kosten EUR 250,00 pro Teilnehmer, inklusive Mittagessen und Materialien.
 Sollte diese Preis für dich zu hoch sein, dann melde dich bitte bei uns - eine Vergünstigung ist möglich.
 
-Um dich anzumelden schicke einfach eine Email an: <a href="MakerDays@x-hain.de">MakerDays@x-hain.de</a>
+Um dich anzumelden schicke einfach eine Email an: <a href="mailto:MakerDays@x-hain.de">MakerDays@x-hain.de</a>
 
  
 
