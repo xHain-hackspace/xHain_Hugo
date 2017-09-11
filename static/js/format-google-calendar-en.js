@@ -255,7 +255,9 @@ var formatGoogleCalendar = (function() {
         }
 
         //month day, year time-time
-        return '<span style="width: 125px; float: left">' + dayNameStart + '</span>' + '<span style="width: 100px; float: left">' + dateStart[0] + '.' + dateStart[1] + '.' + dateStart[2] + '</span>' + '<span style="width: 135px; float: left">' + formattedTime + '</span>';
+        return '<span style="width: 125px; float: left">' + dayNameStart + '</span>' + '<span style="width: 200px; float: left">' + getMonthName(dateStart[1]) + ' ' + dateStart[0] + ', ' + dateStart[2] + '</span> <span style="width: 200px; float: left">' + formattedTime + '</span>';
+
+        //return '<span style="width: 125px; float: left">' + dayNameStart + '</span>' + '<span style="width: 100px; float: left">' + dateStart[0] + '.' + dateStart[1] + '.' + dateStart[2] + '</span>' + '<span style="width: 180px; float: left">' + formattedTime + '</span>';
     };
 
     var formatDateOneDay = function(dateStart, dayNames) {
@@ -351,22 +353,22 @@ var formatGoogleCalendar = (function() {
 
     var getFormattedTime = function (date) {
         var formattedTime = '',
-            period = '',
+            period = 'AM',
             hour = date[3],
             minute = date[4];
 
         // Handle afternoon.
         if (hour >= 12) {
-            period = '';
+            period = 'PM';
 
             if (hour >= 13) {
-                //hour -= 12;
+                hour -= 12;
             }
         }
 
         // Handle midnight.
         if (hour === 0) {
-            hour = 24;
+            hour = 12;
         }
 
         // Ensure 2-digit minute value.

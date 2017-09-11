@@ -197,7 +197,7 @@ var formatGoogleCalendar = (function() {
     //Get month name according to index
     var getMonthName = function (month) {
         var monthNames = [
-            'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'
+            'Januar', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember'
         ];
 
         return monthNames[month];
@@ -205,9 +205,7 @@ var formatGoogleCalendar = (function() {
 
     var getDayName = function (day) {
       var dayNames = [
-//          'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'
-          'Sonntag', 'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag'
-
+          'Sontag', 'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag'
       ];
 
       return dayNames[day];
@@ -257,7 +255,7 @@ var formatGoogleCalendar = (function() {
         }
 
         //month day, year time-time
-        return '<span style="width: 125px; float: left">' + dayNameStart + '</span>' + '<span style="width: 100px; float: left">' + dateStart[0] + '.' + dateStart[1] + '.' + dateStart[2] + '</span>' + '<span style="width: 135px; float: left">' + formattedTime + '</span>';
+        return '<span style="width: 125px; float: left">' + dayNameStart + '</span>' + '<span style="width: 200px; float: left">' + ' ' + dateStart[0] + '. ' + getMonthName(dateStart[1]) + ' ' + dateStart[2] + '</span> <span style="width: 150px; float: left">' + formattedTime + '</span>';
     };
 
     var formatDateOneDay = function(dateStart, dayNames) {
