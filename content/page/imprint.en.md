@@ -15,4 +15,4 @@ xHain hack+makespace<br>
 Grünberger Str. 14<br>
 10243 Berlin<br>
 <br>
-<a href="mailto:info@x-hain.de">info@x-hain.de</a>
+[info@x-hain.de](mailto:info@x-hain.de)
