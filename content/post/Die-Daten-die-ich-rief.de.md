@@ -2,7 +2,7 @@
 title: "Die Daten, die ich rief"
 thumbnailImagePosition: left
 thumbnailImage: /images/kattascha.jpeg
-coverImage: /images/data.jpg
+coverImage: /images/dataworld.jpg
 date: 2018-10-24
 categories:
 - news
