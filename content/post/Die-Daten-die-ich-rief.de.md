@@ -27,5 +27,6 @@ Katharina Nocun ist Bürgerrechtlerin, Netzaktivistin und studierte
 Ökonomin. Sie leitete bundesweite Kampagnen zum Thema Datenschutz,
 Whistleblowing und Bürgerrechte, u.a. für die Bürgerbewegung Campact
 e.V., Mehr Demokratie e.V., und den Verbraucherzentrale Bundesverband
-(vzbv). Sie bloggt unter kattascha.de. 2018 erschien ihr Buch "Die
+(vzbv). 
+Sie bloggt unter kattascha.de. 2018 erschien ihr Buch "Die
 Daten, die ich rief" bei Lübbe.
