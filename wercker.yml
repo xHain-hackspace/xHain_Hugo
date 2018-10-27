@@ -27,7 +27,7 @@ build:
         hostname: acorn.x-hain.de
 
     - sjoerdmulder/rsync-deploy@0.1.0:
-        host: beech.x-hain.de
+        host: beech.bjrm.de
         directory: /opt/web_static/x-hain.de
         sshkey: $xhainDeploy
         user: deploy_xhain
