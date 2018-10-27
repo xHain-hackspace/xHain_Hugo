@@ -24,7 +24,7 @@ build:
         keyname: xhainDeploy
 
     - add-to-known_hosts:
-        hostname: acorn.x-hain.de
+        hostname: beech.x-hain.de
 
     - sjoerdmulder/rsync-deploy@0.1.0:
         host: beech.bjrm.de
