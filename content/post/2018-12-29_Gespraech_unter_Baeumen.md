@@ -5,7 +5,11 @@ date: 2018-12-29 19:23:42
 
 Im neuen Jahr laden wir euch an jedem 2. Dienstag im Monat zu einem Gespräch unter unseren Bäumen ein. Spannende Personen, die zufällig Frauen sind, gestalten ein maximal einstündiges Programm. (Nachfragen und Weiterdiskussion im Anschluss werden wir aber nicht unterbinden.) 
 
-Wir laden alle Interessierten herzlich dazu ein! Das schließt Technikneulinge aus dem Kiez genauso ein wie erfahrene Hackspace-Besucher*innen und alle anderen, die Lust auf‘s Thema, Lust auf den xHain oder beides haben. Wir sitzen in der Grünberger Str. 14 in Berlin-Friedrichshain und haben lauschigen Platz für 25 Personen. Der Eintritt ist frei, Getränke gibt es gegen Spende. 
+Wir laden alle Interessierten herzlich dazu ein! 
+
+<!-- more -->
+
+Das schließt Technikneulinge aus dem Kiez genauso ein wie erfahrene Hackspace-Besucher*innen und alle anderen, die Lust auf‘s Thema, Lust auf den xHain oder beides haben. Wir sitzen in der Grünberger Str. 14 in Berlin-Friedrichshain und haben lauschigen Platz für 25 Personen. Der Eintritt ist frei, Getränke gibt es gegen Spende. 
 
 Den Anfang macht [Maria Reimer](https://twitter.com/malienamadrina). Am 08.01. um 19 Uhr liest sie aus Kathrin Passigs „Standardsituationen der Technologiekritik“ vor und denkt laut über die German Zukunftsangst nach, die den immer gleichen Reflexen der Deutschen zugrunde liegt. Maria ist studierte Politikwissenschaftlerin und hat nach tollen Jahren der praktischen Arbeit an [Jugend hackt](https://www.jugendhackt.org) wieder mehr Platz im Kopf und Lust auf Theorie.
 
