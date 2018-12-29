@@ -11,7 +11,7 @@ tags:
 - xhain
 ---
 
-Im neuen Jahr laden wir euch an jedem 2. Dienstag im Monat zu einem Gespräch unter unseren Bäumen ein. Spannende Personen, die zufällig Frauen sind, gestalten ein maximal einstündiges Programm. (Nachfragen und Weiterdiskussion im Anschluss werden wir aber nicht unterbinden.) 
+2019 laden wir euch an jedem 2. Dienstag im Monat zu einem Gespräch unter unseren Bäumen ein. Spannende Personen, die zufällig Frauen sind, gestalten ein maximal einstündiges Programm. (Nachfragen und Weiterdiskussion im Anschluss werden wir aber nicht unterbinden.) 
 
 Wir laden alle Interessierten herzlich dazu ein! 
 
