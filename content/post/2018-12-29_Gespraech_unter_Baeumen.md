@@ -1,6 +1,14 @@
 ---
 title: Gespräch unter Bäumen - Veranstaltungsreihe im xHain
+thumbnailImagePosition: left
+thumbnailImage: /images/kattascha.jpeg
+coverImage: /images/dataworld.jpg
 date: 2018-12-29 19:23:42
+categories:
+- news
+- events
+tags:
+- xhain
 ---
 
 Im neuen Jahr laden wir euch an jedem 2. Dienstag im Monat zu einem Gespräch unter unseren Bäumen ein. Spannende Personen, die zufällig Frauen sind, gestalten ein maximal einstündiges Programm. (Nachfragen und Weiterdiskussion im Anschluss werden wir aber nicht unterbinden.) 
