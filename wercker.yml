@@ -28,7 +28,6 @@ build:
 
     - sjoerdmulder/rsync-deploy@0.1.0:
         host: beech.bjrm.de
-        remote_port: 222
         directory: /opt/web_static/x-hain.de/
         sshkey: $xhainDeploy
         user: deploy_xhain
