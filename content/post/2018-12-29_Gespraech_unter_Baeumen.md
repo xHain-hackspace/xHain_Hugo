@@ -2,7 +2,7 @@
 title: Gespräch unter Bäumen - Veranstaltungsreihe im xHain
 thumbnailImagePosition: left
 thumbnailImage: /images/gespraechunterbaeumen.jpg
-coverImage: /images/dataworld.jpg
+coverImage: /images/gespraechunterbaeumen.jpg
 date: 2018-12-29 19:23:42
 categories:
 - news
