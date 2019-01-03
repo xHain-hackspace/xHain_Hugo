@@ -87,7 +87,7 @@ weight = 2
   identifier = "mail"
   name = "Mail"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope-o\"></i>"
-  url = "[mailto]mailto:x-hain@posteo.de"
+  url = "mailto:x-hain@posteo.de"
 
 [[menu.links]]
   weight = 3
