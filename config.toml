@@ -69,13 +69,6 @@ weight = 2
   url = "/page/imprint"
 
 [[menu.links]]
-  weight = 0
-  identifier = "mattermost"
-  name = "Mattermost"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-comments-o\"></i>"
-  url = "https://mm.x-hain.de/signup_user_complete/?id=gq4tqk5wrjfzpe7sixfcp4ebth"
-
-[[menu.links]]
   weight = 1
   identifier = "twitter"
   name = "Twitter"
