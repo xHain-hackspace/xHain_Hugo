@@ -157,7 +157,7 @@ var formatGoogleCalendar = (function() {
             if (format[i] === '*summary*') {
                 output = output.concat('<span class="summary">' + summary + '</span>');
             } else if (format[i] === '*date*') {
-                output = output.concat('<span class="date">' + dateFormatted + '</span>');
+                output = output.concat(dateFormatted);
             } else if (format[i] === '*description*') {
                 output = output.concat('<span class="description">' + description + '</span>');
             } else if (format[i] === '*location*') {
@@ -225,7 +225,7 @@ var formatGoogleCalendar = (function() {
      date.setTime(date.getTime() + 86400000);
      return getDateInfo(date);
      };
-    
+
     //Subtract one day
     var subtractOneDay = function (dateInfo) {
       var date = getDateFormatted(dateInfo);
@@ -255,7 +255,7 @@ var formatGoogleCalendar = (function() {
         }
 
         //month day, year time-time
-        return '<span style="width: 125px; float: left">' + dayNameStart + '</span>' + '<span style="width: 200px; float: left">' + ' ' + dateStart[0] + '. ' + getMonthName(dateStart[1]) + ' ' + dateStart[2] + '</span> <span style="width: 150px; float: left">' + formattedTime + '</span>';
+        return '<span class="date-dayname">' + dayNameStart + '</span>' + '<span class="date-datestart">' + ' ' + dateStart[0] + '. ' + getMonthName(dateStart[1]) + ' ' + dateStart[2] + '</span> <span class="date-time">' + formattedTime + '</span>';
     };
 
     var formatDateOneDay = function(dateStart, dayNames) {
