@@ -15,7 +15,9 @@ Das war ein feiner Auftakt unserer Veranstaltungsreihe am 8. Januar im xHain: Be
 
 <!-- more -->
 
-In der anschließenden Diskussion wurden ein paar Verweise gemacht, die wir hier serviceorientiert nochmal dokumentieren. 
+Wer will kann [hier](https://soundcloud.com/user-550603531/gesprach-unter-baumen-01-maria-reimer) die Lesung nachhören.
+
+In der anschließenden Diskussion, die wir nicht aufgezeichnet haben, wurden ein paar Verweise gemacht, die wir hier serviceorientiert nochmal dokumentieren. 
 
 **Shownotes “Gespräch unter Bäumen” vom Januar**
 
