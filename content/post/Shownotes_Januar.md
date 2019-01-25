@@ -31,6 +31,6 @@ Enno Park: [Doxing: das steckt wirklich hinter dem “Hackerangriff” auf die B
 
 [xkcd “Simple Answers” - quasi Kurzzusammenfassung von Passigs Buch](https://xkcd.com/1289/)
 
-zum Satz “We need people that are post-depression and are not afraid of complexity” diese Empfehlung: [“Ten years after we lost the war”](https://media.ccc.de/v/32c3-7501-ten_years_after_we_lost_the_war#t=3678)
+Zum Satz “We need people that are post-depression and are not afraid of complexity” diese Empfehlung: [“Ten years after we lost the war”](https://media.ccc.de/v/32c3-7501-ten_years_after_we_lost_the_war#t=3678)
 
 [Einführung in den Fefismus](http://mspr0.de/?p=4272)
