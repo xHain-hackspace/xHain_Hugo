@@ -12,7 +12,6 @@ tags:
 ---
 
 Das war ein feiner Auftakt unserer Veranstaltungsreihe am 8. Januar im xHain: Beim ersten “Gespräch unter Bäumen” hat Maria Reimer aus Kathrin Passigs Standardsituationen der Technologiekritik vorgelesen hat. Der xHain war voll und voll neuer Leute, die gute Gedanken mitgebracht hatten. Und Kathrin Passig war auch anwesend.
-
 <!-- more -->
 
 Wer will kann [hier](https://soundcloud.com/user-550603531/gesprach-unter-baumen-01-maria-reimer) die Lesung nachhören.
