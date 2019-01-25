@@ -1,6 +1,14 @@
 ---
 title: Rückblick 1. Veranstaltung “Gespräch unter Bäumen” und Shownotes
 date: 2019-01-25 15:00:00
+categories:categories:
+- news
+- events
+tags:
+- xhain
+- events
+tags:
+- xhain
 ---
 
 Das war ein feiner Auftakt unserer Veranstaltungsreihe am 8. Januar im xHain: Beim ersten “Gespräch unter Bäumen” hat Maria Reimer aus Kathrin Passigs Standardsituationen der Technologiekritik vorgelesen hat. Der xHain war voll und voll neuer Leute, die gute Gedanken mitgebracht hatten. Und Kathrin Passig war auch anwesend. <3
