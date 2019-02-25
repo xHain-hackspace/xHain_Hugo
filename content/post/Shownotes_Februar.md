@@ -19,9 +19,9 @@ Auch der zweite Abend unserer neuen Reihe “Gespräch unter Bäumen” war ein 
 
 <!-- more -->
 
-Auch inhaltlich war der Abend klasse: Daniela Berger hat lustig, launig und unverklausuliert aus ihren 15 Jahren Erfahrung in der IT-Branche berichtet. 
+Auch inhaltlich war der Abend klasse: Daniela Berger hat lustig, launig und unverklausuliert aus ihren 15 Jahren Erfahrung in der IT-Branche berichtet. Ihre Folien findet ihr [hier.](/images/Daniela_wasichgernvorhergewussthaette.odp)
 Wir haben über die verschiedenen Zugänge zum Programmierer*innentum gesprochen, den überkommenen Glauben, dass nur ein abgebrochenes Informatikstudium einen guten Hacker hervorbringt, beliebte Fehler (Finger weg vom Live Server!) und darüber, dass xkcd für wirklich jede Situation einen passenden Comic parat hat. 
-[Diese](https://xkcd.com/979/) beiden [hier[(https://xkcd.com/1425/) sind übrigens Danielas Lieblinge.
+[Diese](https://xkcd.com/979/) beiden [hier](https://xkcd.com/1425/) sind übrigens Danielas Lieblinge.
 
 **Shownotes “Gespräch unter Bäumen” vom Februar**
 
