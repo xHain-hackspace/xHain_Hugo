@@ -1,7 +1,10 @@
 ---
 title: Rückblick 2. Veranstaltung “Gespräch unter Bäumen” und Shownotes
+thumbnailImagePosition: left
+thumbnailImage: /images/gespraechunterbaeumen.jpg
+coverImage: /images/gespraechunterbaeumen.jpg
 date: 2019-02-25 22:00:00
-categories:categories:
+categories:
 - news
 - events
 tags:
