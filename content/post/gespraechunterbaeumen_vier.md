@@ -17,7 +17,7 @@ Im April war [Rebekka Seyffarth](https://twitter.com/Kurfuerstin) mit ihrem Gesp
 
 **Shownotes “Gespräch unter Bäumen” vom April**
 
-Rebekkas Vortrag findet ihr hier[Bild](images/Textile%20Fl%C3%A4chen%20aus%20dem%203D-Drucker.pdf). Schaut ihn euch an!
+Rebekkas Vortrag findet ihr [hier](images/textileflaechenausdem3Ddrucker.pdf). Schaut ihn euch an!
 
 [Travis Fitch, Designer der Strukturen Hilo und Tessella](https://fitchwork.com/) 
 [Insta](https://www.instagram.com/fitchwork/)
