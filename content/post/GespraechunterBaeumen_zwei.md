@@ -11,7 +11,7 @@ tags:
 - xhain
 ---
 
-Seit Januar dieses Jahres laden wir euch an jedem 2. Dienstag im Monat zu einem Gespräch unter unseren Bäumen ein. Interessante Personen, die zufällig Frauen sind, gestalten ein maximal einstündiges Programm. Nachfragen und Diskussion sind gern gesehen, schließlich heißt es nicht „Monolog unter Bäumen“. Die Termine von Januar bis Mai waren sofort so schön, informativ und lustig! Und der xHain war rappelvoll mit einer großartigen Mischung aus neuen Leuten aus neuen Szenen und bekannten Leuten aus bekannten Szenen. Kurz: diese kleine, feine Reihe ist ein Fest. 
+In diesem Post kündigen wir an, wer uns von Juni bis Dezember beim Gespräch unter Bäumen besuchen wird. Wer es nicht kennt: Seit Januar dieses Jahres laden wir euch an jedem 2. Dienstag im Monat zu einem Gespräch unter unseren Bäumen ein. Interessante Personen, die zufällig Frauen sind, gestalten ein maximal einstündiges Programm. Nachfragen und Diskussion sind gern gesehen, schließlich heißt es nicht „Monolog unter Bäumen“. Die Termine von Januar bis Mai waren sofort so schön, informativ und lustig! Und der xHain war rappelvoll mit einer großartigen Mischung aus neuen Leuten aus neuen Szenen und bekannten Leuten aus bekannten Szenen. Kurz: diese kleine, feine Reihe ist ein Fest. 
 
 **Die Termine von Juni bis Dezember**
 
