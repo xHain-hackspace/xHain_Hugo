@@ -32,3 +32,15 @@ Am 12.11. um 19 Uhr besucht uns [Anke Domscheit-Berg](https://mdb.anke.domscheit
 Am 10.12. um 19 Uhr beschließen Esther und Heike Seyffarth unser Gesprächsjahr. Die beiden wissen, dass Maschinen Schönheit erschaffen können, denn sie sind die Meisterinnen (zumindest ihrer eigenen) Bots. [Esther](https://user.phil.hhu.de/~seyffarth/interests.html) und [Heike](https://phototio.com/) zeigen uns, wie und warum sie Bots konstruieren, die Sprache, Kunst, Menschen, Bilder und Ideen einander gegenüberstellen, miteinander kombinieren und aufeinander reagieren lassen. Esthers Spezialgebiete sind Informatik und Computerlinguistik, Heike ist Künstlerin und beschäftigt sich schon viele Jahre mit digitaler Bildbearbeitung. 
 
 Kommt zahlreich! Wir sind freundlich und offen und freuen uns auf euch.
+
+Über kurzfristige Änderungen bleibt ihr am besten über [Twitter](https://twitter.com/xHain_hackspace) auf dem Laufenden – oder über unseren Newsletter, den ihr hier abonnieren könnt: 
+
+<form action="https://formspree.io/xhain_hack_makespace@posteo.de"
+      method="POST">
+    <label for="email">E-Mail:
+    	<input type="email" name="_replyto" title="E-Mail" required>
+    </label><br>
+    <label>Newsletter abonnieren
+    	<input type="submit" value="Ja, bitte">
+	</label><br>
+</form>
